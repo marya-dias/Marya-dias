@@ -1,16 +1,16 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL 🌸
 
-<!--
-**marya-dias/Marya-dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é maria clara dias
 
-Here are some ideas to get you started:
+- estou estudando na alura
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meu projeto desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+00001130740183SP@al.educacao.sp.gov.br
+
+@mary_dias
+
+![](https://media1.tenor.com/m/UPPqqw_sa0EAAAAC/nezuko-demon-slayer.gif)
+
